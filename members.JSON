@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kim",
+    "password": "1234",
+    "email": "kimjongyoon@gmial.com"
+  },
+  {
+    "id": "yoon",
+    "password": "1234",
+    "email": "daljae@gmail.com"
+  },
+  {
+    "id": "yiie",
+    "password": "1234",
+    "email": "jieun@gmail.com"
+  }
+]
